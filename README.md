@@ -1,10 +1,11 @@
+English:
 Write a C++ program to guess  the computer's secret number. The rules of the games are as follows:
     1. The computer randomly  selects a secret number between from 0 to 100
     2. Uer enters a number from 0 to 100 to predict the computer's secret number:
         - If user guesses higher then return higher message and keep typing again
         - If user guesses lower, the return lower message and keep typing again
         - If the guesses the secret number correcctly. return "congratulations on winning" and ends the game
-translate:
+Vietnamese:
 Viết chương trình C ++ để đoán số bí mật của máy tính. Luật chơi như sau:
 
     1. Máy tính chọn ngẫu nhiên một số bí mật từ 0 đến 100.
